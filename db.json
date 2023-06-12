@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Duncan Hernandez",
+      "email": "ElDunkin@eldunkin.com",
+      "id": "1"
+    },
+    {
+      "nombre": "Alejandro",
+      "email": "ElAjo058@eldunkin.com",
+      "id": "f44d338c-8905-4ff1-94ea-bc4565e5a69b"
+    },
+    {
+      "nombre": "Juan Diego",
+      "email": "Mildlens@eldunkin.com",
+      "id": "de6dd4ae-eba1-4868-93cf-2ae829fc8591"
+    }
+  ]
+}
